@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/devComNom/static/css/main.981f7211.chunk.css",
+    "main.js": "/devComNom/static/js/main.b01c0e08.chunk.js",
+    "main.js.map": "/devComNom/static/js/main.b01c0e08.chunk.js.map",
+    "runtime-main.js": "/devComNom/static/js/runtime-main.f1867206.js",
+    "runtime-main.js.map": "/devComNom/static/js/runtime-main.f1867206.js.map",
+    "static/css/2.86df01db.chunk.css": "/devComNom/static/css/2.86df01db.chunk.css",
+    "static/js/2.06515f63.chunk.js": "/devComNom/static/js/2.06515f63.chunk.js",
+    "static/js/2.06515f63.chunk.js.map": "/devComNom/static/js/2.06515f63.chunk.js.map",
+    "index.html": "/devComNom/index.html",
+    "precache-manifest.a43add9c30a3a87b4ff190dfdb5f8b46.js": "/devComNom/precache-manifest.a43add9c30a3a87b4ff190dfdb5f8b46.js",
+    "service-worker.js": "/devComNom/service-worker.js",
+    "static/css/2.86df01db.chunk.css.map": "/devComNom/static/css/2.86df01db.chunk.css.map",
+    "static/css/main.981f7211.chunk.css.map": "/devComNom/static/css/main.981f7211.chunk.css.map",
+    "static/js/2.06515f63.chunk.js.LICENSE.txt": "/devComNom/static/js/2.06515f63.chunk.js.LICENSE.txt",
+    "static/media/persik.png": "/devComNom/static/media/persik.4e1ec840.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1867206.js",
+    "static/css/2.86df01db.chunk.css",
+    "static/js/2.06515f63.chunk.js",
+    "static/css/main.981f7211.chunk.css",
+    "static/js/main.b01c0e08.chunk.js"
+  ]
+}
